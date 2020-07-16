@@ -1,0 +1,13 @@
+var promise="I promise I work hard to become programmer";
+console.log(promise.toLocaleUpperCase());
+var tot="I love myself";
+console.log(tot.indexOf('love'));
+var pop="both are same in this case";
+console.log(pop.split(''));
+var nmbr=30.5;
+var nmbr1=70;
+nmbr1=parseFloat(nmbr1);
+console.log(nmbr+nmbr1);
+var nmbr= -7;
+var absoulateNumber=Math.abs(nmbr);
+console.log(absoulateNumber);
